@@ -2,3 +2,5 @@
 .repo/
 *.Zone.Identifier
 *:Zone.Identifier
+*Zone.Identifier
+*Identifier
